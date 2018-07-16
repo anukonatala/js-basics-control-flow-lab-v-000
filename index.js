@@ -13,5 +13,9 @@ function ternaryCheckCity(dest){
   if(dest == 'NYC')
     return  "Ok, sounds good." 
   else
-    return No go."
+    return "No go."
+}
+
+function switchOnCharmFromTip(){
+  
 }

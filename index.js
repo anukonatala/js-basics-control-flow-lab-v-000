@@ -1,4 +1,7 @@
 // Write your code in this file!
-function scuberGreetingForFeet(someValue) {
+function scuberGreetingForFeet(feet) {
+  if(feet)
+  else if()
+  else
   
 }

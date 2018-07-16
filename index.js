@@ -27,6 +27,6 @@ function switchOnCharmFromTip(message){
     case "thanks for everything:
         console.log("Bye.")
         break;
-}
+    }
   
 }

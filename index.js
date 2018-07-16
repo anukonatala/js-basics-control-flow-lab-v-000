@@ -24,7 +24,7 @@ function switchOnCharmFromTip(message){
     case "not as generous":
         console.log("Thank you.")
         break;
-    case "thanks for everything:
+    default :
         console.log("Bye.")
         break;
     }

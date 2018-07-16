@@ -22,7 +22,7 @@ function switchOnCharmFromTip(message){
         console.log("Thank you so much.")
         break;
     case "not as generous":
-        console.log()
+        console.log("Thank you.")
         break;
     case "thanks for everything:
         code block

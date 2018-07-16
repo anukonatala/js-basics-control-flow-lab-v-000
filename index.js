@@ -18,7 +18,7 @@ function ternaryCheckCity(dest){
 
 function switchOnCharmFromTip(message){
   switch(message) {
-    case n:
+    case "generous":
         code block
         break;
     case n:

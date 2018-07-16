@@ -21,7 +21,7 @@ function switchOnCharmFromTip(message){
     case "generous":
         code block
         break;
-    case n:
+    case "not as generous":
         code block
         break;
     default:

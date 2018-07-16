@@ -19,10 +19,10 @@ function ternaryCheckCity(dest){
 function switchOnCharmFromTip(message){
   switch(message) {
     case "generous":
-        code block
+        console.log("Thank you so much.")
         break;
     case "not as generous":
-        code block
+        console.log()
         break;
     case "thanks for everything:
         code block
